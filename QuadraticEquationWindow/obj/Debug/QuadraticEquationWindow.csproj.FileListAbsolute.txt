@@ -1,0 +1,11 @@
+D:\TUX GLOBAL\Console APP\Week1\QuadraticEquationWindow\bin\Debug\QuadraticEquationWindow.exe.config
+D:\TUX GLOBAL\Console APP\Week1\QuadraticEquationWindow\bin\Debug\QuadraticEquationWindow.exe
+D:\TUX GLOBAL\Console APP\Week1\QuadraticEquationWindow\bin\Debug\QuadraticEquationWindow.pdb
+D:\TUX GLOBAL\Console APP\Week1\QuadraticEquationWindow\obj\Debug\QuadraticEquationWindow.csproj.AssemblyReference.cache
+D:\TUX GLOBAL\Console APP\Week1\QuadraticEquationWindow\obj\Debug\QuadraticEquationWindow.csproj.SuggestedBindingRedirects.cache
+D:\TUX GLOBAL\Console APP\Week1\QuadraticEquationWindow\obj\Debug\QuadraticEquationWindow.Form1.resources
+D:\TUX GLOBAL\Console APP\Week1\QuadraticEquationWindow\obj\Debug\QuadraticEquationWindow.Properties.Resources.resources
+D:\TUX GLOBAL\Console APP\Week1\QuadraticEquationWindow\obj\Debug\QuadraticEquationWindow.csproj.GenerateResource.cache
+D:\TUX GLOBAL\Console APP\Week1\QuadraticEquationWindow\obj\Debug\QuadraticEquationWindow.csproj.CoreCompileInputs.cache
+D:\TUX GLOBAL\Console APP\Week1\QuadraticEquationWindow\obj\Debug\QuadraticEquationWindow.exe
+D:\TUX GLOBAL\Console APP\Week1\QuadraticEquationWindow\obj\Debug\QuadraticEquationWindow.pdb
